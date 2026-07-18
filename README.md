@@ -1,6 +1,6 @@
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="#" alt="Hello Coders" width="60%"/> <br>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=F7A828&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ghada+Saeed;ML+%7C+NLP+%7C+CV+%7C+Audio" alt="Typing SVG" /><br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="#" alt="Workspace"  width="40%"/><br>
 
 <details>
