@@ -51,11 +51,11 @@ class About(Me):
 ```
 
 - 🧠 &nbsp; Senior-year CS student working across **ML, NLP, Computer Vision, and Audio Processing**.<br>
-- 🎙️ &nbsp; Currently building a **deepfake audio detection** model using the FoR dataset and wav2vec2.<br>
-- 📷 &nbsp; Part of a team building an **automated face recognition attendance system**.<br>
-- 💬 &nbsp; Built a **Smart Review Analyzer** — NLP sentiment analysis on Amazon reviews.<br>
-- 📊 &nbsp; Built a **Telco Customer Churn** classification project.<br>
-- 🚦 &nbsp; Built a **Traffic Signal Optimization** project using PSO, DE, and hybrid PSO-DE in a Flask GUI.<br>
+- 🎙️ &nbsp; Interested in **audio processing** — deepfake/spoof detection and speech models.<br>
+- 📷 &nbsp; Enjoys building **Computer Vision** systems like recognition and detection pipelines.<br>
+- 💬 &nbsp; Into **NLP** — sentiment analysis and text classification.<br>
+- 📊 &nbsp; Likes tackling **classification problems** on real-world tabular datasets.<br>
+- 🚦 &nbsp; Fascinated by **optimization algorithms** (PSO, DE, and hybrid approaches).<br>
 - ⚡ &nbsp; Ask me about **Machine Learning, NLP, or Audio/CV projects**.<br>
 
 <hr></hr>
